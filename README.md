@@ -25,3 +25,4 @@ npm install
 cp .env.example .env.local   # fill it in
 npm run dev
 ```
+live
